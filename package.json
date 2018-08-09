@@ -1,0 +1,19 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "description": "ExpressJS Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThabisoDDX/express-starter.git"
+  },
+  "author": "Thabiso Mohatlane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThabisoDDX/express-starter/issues"
+  },
+  "homepage": "https://github.com/ThabisoDDX/express-starter#readme"
+}
